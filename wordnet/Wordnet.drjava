@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<drjava version="drjava-20120818-r5686">
+  <project autorefresh="false" main="Wordnet.drjava" root="" work="">
+    <createjar file=""/>
+    <source>
+      <file active="true" name="WordNet.java" package="" timestamp="25-Nov-2014 08:09:03">
+        <select from="765" to="765"/>
+        <scroll column="302" row="0"/>
+      </file>
+      <file name="SAP.java" package="" timestamp="26-Nov-2014 18:02:31">
+        <select from="765" to="765"/>
+        <scroll column="302" row="0"/>
+      </file>
+      <file name="Outcast.java" package="" timestamp="25-Nov-2014 07:50:31">
+        <select from="765" to="765"/>
+        <scroll column="302" row="0"/>
+      </file>
+    </source>
+    <included/>
+    <excluded/>
+    <collapsed/>
+    <classpath>
+      <file absolute="true" name="d:/home/algs4"/>
+      <file absolute="true" name="D:/home/algs4/algs4.jar"/>
+      <file absolute="true" name="D:/home/algs4/stdlib.jar"/>
+    </classpath>
+    <breakpoints/>
+    <watches/>
+    <bookmarks/>
+    <preferences/>
+  </project>
+</drjava>

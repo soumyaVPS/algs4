@@ -1,0 +1,250 @@
+
+ In Dequeue beg and end 0 1 0
+No such Elem
+
+ In Dequeue beg and end 0 1 0
+No such Elem
+Enque 2
+
+ In Enqueue beg and end 0 1 0
+!!!!numItems 1
+ Elements of array: 
+ 2
+
+
+ In Dequeue beg and end 0 1 0
+!!!Dequeued 2
+
+ In Dequeue beg and end 1 1 1
+No such Elem
+
+ In Dequeue beg and end 1 1 1
+No such Elem
+
+ In Dequeue beg and end 1 1 1
+No such Elem
+Enque 7
+
+ In Enqueue beg and end 1 1 1
+!!!!numItems 1
+ Elements of array: 
+ 7
+
+Enque 8
+
+ In Enqueue beg and end 1 1 1
+!!!!numItems 2
+ Elements of array: 
+ 7 8
+
+Enque 9
+
+ In Enqueue beg and end 0 2 0
+!!!!numItems 3
+ Elements of array: 
+ 7 9 8 null
+
+
+ In Dequeue beg and end 0 4 0
+!!!Dequeued 7
+Enque 11
+
+ In Enqueue beg and end 1 4 1
+!!!!numItems 3
+ Elements of array: 
+ 11 9 9 null
+
+Enque 12
+
+ In Enqueue beg and end 1 4 2
+!!!!numItems 4
+ Elements of array: 
+ 11 9 12 null
+
+Enque 13
+
+ In Enqueue beg and end 1 4 3
+!!!!numItems 5
+ Elements of array: 
+ 9 12 13 11 null null null null
+
+
+ In Dequeue beg and end 0 8 0
+!!!Dequeued 9
+Enque 15
+
+ In Enqueue beg and end 1 8 1
+!!!!numItems 5
+ Elements of array: 
+ null 12 15 11 11 null null null
+
+Enque 16
+
+ In Enqueue beg and end 1 8 2
+!!!!numItems 6
+ Elements of array: 
+ null 12 15 11 11 null null null
+
+
+ In Dequeue beg and end 1 8 3
+!!!Dequeued 12
+Enque 18
+
+ In Enqueue beg and end 2 8 3
+!!!!numItems 6
+ Elements of array: 
+ null null 15 18 11 null null null
+
+
+ In Dequeue beg and end 2 8 4
+!!!Dequeued 15
+Enque 20
+
+ In Enqueue beg and end 3 8 4
+!!!!numItems 6
+ Elements of array: 
+ null null null 18 11 null null null
+
+Enque 21
+
+ In Enqueue beg and end 3 8 5
+!!!!numItems 7
+ Elements of array: 
+ null 21 null 18 11 null 11 null
+
+Enque 22
+
+ In Enqueue beg and end 3 8 6
+!!!!numItems 8
+ Elements of array: 
+ null 22 null 18 11 null 11 11
+
+Enque 23
+
+ In Enqueue beg and end 3 8 7
+!!!!numItems 9
+ Elements of array: 
+ 18 11 null 11 23 null 22 null 11 null null null null null null null
+
+
+ In Dequeue beg and end 0 16 0
+!!!Dequeued 18
+Enque 25
+
+ In Enqueue beg and end 1 16 1
+!!!!numItems 9
+ Elements of array: 
+ 25 11 null 11 23 null 22 null 11 null null null null null null null
+
+Enque 26
+
+ In Enqueue beg and end 1 16 2
+!!!!numItems 10
+ Elements of array: 
+ 25 11 null 11 23 26 22 null 11 22 null null null null null null
+
+
+ In Dequeue beg and end 1 16 3
+!!!Dequeued 11
+
+ In Dequeue beg and end 2 16 3
+!!!Dequeued null
+
+ In Dequeue beg and end 3 16 3
+!!!Dequeued 11
+
+ In Dequeue beg and end 4 16 4
+!!!Dequeued 23
+
+ In Dequeue beg and end 5 16 5
+!!!Dequeued 26
+
+ In Dequeue beg and end 6 16 6
+!!!Dequeued 22
+Enque 33
+
+ In Enqueue beg and end 0 8 4
+!!!!numItems 5
+ Elements of array: 
+ null 11 22 null 33 null null null
+
+
+ In Dequeue beg and end 0 8 5
+!!!Dequeued null
+
+ In Dequeue beg and end 1 8 5
+!!!Dequeued 11
+
+ In Dequeue beg and end 2 8 5
+!!!Dequeued 22
+Enque 37
+
+ In Enqueue beg and end 0 4 2
+!!!!numItems 3
+ Elements of array: 
+ null 33 37 null
+
+Enque 38
+
+ In Enqueue beg and end 0 4 3
+!!!!numItems 4
+ Elements of array: 
+ null 33 38 37
+
+
+ In Dequeue beg and end 0 4 4
+!!!Dequeued null
+Enque 40
+
+ In Enqueue beg and end 1 4 4
+!!!!numItems 4
+ Elements of array: 
+ null 40 38 38
+
+
+ In Dequeue beg and end 1 4 0
+!!!Dequeued 40
+Enque 42
+
+ In Enqueue beg and end 2 4 0
+!!!!numItems 4
+ Elements of array: 
+ null null 42 null
+
+Enque 43
+
+ In Enqueue beg and end 2 4 1
+!!!!numItems 5
+ Elements of array: 
+ 42 null 43 null null null null null
+
+
+ In Dequeue beg and end 0 8 0
+!!!Dequeued 42
+Enque 45
+
+ In Enqueue beg and end 1 8 1
+!!!!numItems 5
+ Elements of array: 
+ null null 43 45 null null null null
+
+
+ In Dequeue beg and end 1 8 2
+!!!Dequeued null
+
+ In Dequeue beg and end 2 8 2
+!!!Dequeued 43
+Enque 48
+
+ In Enqueue beg and end 3 8 3
+!!!!numItems 4
+ Elements of array: 
+ 48 null null 45 null null null null
+
+Enque 49
+
+ In Enqueue beg and end 3 8 4
+!!!!numItems 5
+ Elements of array: 
+ 49 null null 45 45 null null null
+

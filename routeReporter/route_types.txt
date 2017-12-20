@@ -1,0 +1,9 @@
+route_type, num_routes
+Tram-Streetcar-Lightrail,7
+Subway-Metro,0
+Rail,0
+Bus,74
+Ferry,0
+Cable car,3
+Gondola-Suspended cable car,0
+Funicular,0
